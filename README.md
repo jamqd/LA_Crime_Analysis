@@ -1,7 +1,4 @@
-# SikeAIChallenge
-Post-Interview Challenge for Sike AI
-
-Data Visualization of LAPD Crimes in Python
+#Data Visualization of LAPD Crimes in Python
 
 To create conda environment:
 
